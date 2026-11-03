@@ -1,3 +1,3 @@
 # teacher-bypass
 
-Du mobbst Moses 
+App for bypassing Apple classroom and Jamf teacher.
